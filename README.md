@@ -4,7 +4,7 @@
 - 👨🏻‍💻 I'm into front-end web programming.
 - 🌱 I’m currently learning in depth Javascript.
 - 😍 Fallin love with <a href="https://tailwindcss.com/" target="blank">Tailwind CSS</a>.
-- 📫 How to reach me: just check my <a href="https://www.instagram.com/pra.yogi__/" target="blank">Instagram</a> profile.
+- 📫 How to reach me: putrayogi4545@gmail.com
 
 
 <!--
