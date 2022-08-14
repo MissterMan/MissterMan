@@ -6,6 +6,13 @@
 - 😍 Fallin love with <a href="https://tailwindcss.com/" target="blank">Tailwind CSS</a>.
 - 📫 How to reach me: putrayogi4545@gmail.com
 
+<p align="left">
+<a href="https://github.com/MissterMan">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MissterMan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <!--
 **MissterMan/MissterMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
